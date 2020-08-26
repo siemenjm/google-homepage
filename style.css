@@ -4,6 +4,16 @@ body {
 a {
     text-decoration: none;
 }
+#body-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 5px solid orange;
+    width: 100%;
+}
+header {
+    border: 5px dotted green;
+}
 .nav-bar {
     display: flex;
     flex-direction: row;
@@ -34,10 +44,14 @@ a {
     border-radius: 50%;
 }
 main {
-    margin-top: 20%;
+    border: 5px dotted black;
     text-align: center;
+    margin-top: 20vh;
 }
-.footer-nav {
+footer {
+    border: 5px dotted blue;
     position: fixed;
     bottom: 0px;
+    width: 100%;
 }
+
