@@ -33,3 +33,11 @@ a {
 #user-logo {
     border-radius: 50%;
 }
+main {
+    margin-top: 20%;
+    text-align: center;
+}
+.footer-nav {
+    position: fixed;
+    bottom: 0px;
+}
