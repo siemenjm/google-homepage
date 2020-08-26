@@ -1,0 +1,1 @@
+This is my submission for The Odin Project - Building Google's Homepage. Learned a lot about flexboxes, hope to keep learning more!
